@@ -5,7 +5,7 @@ Getting started:
 
 Repository url:
 -------------------------------------------------
-	- https://github.com/subrato29/boilerplate-appium
+	- https://github.com/subrato29/boilerplate-selenium
 
 Framework Nature and Feature:
 -------------------------------------------------
